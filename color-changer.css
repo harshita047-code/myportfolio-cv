@@ -1,0 +1,90 @@
+body{
+    display: grid;
+    justify-content: center;
+    background-color: black;
+}
+#content{
+    display: contents;
+    justify-content: center;
+    
+}
+
+h1{
+    display: grid;
+    justify-content: center;
+    background: linear-gradient( #f9cfc9,#ddffc8,#e3fdf7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+    letter-spacing: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 3px;
+    font-size: 50px;
+}
+h2{
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    letter-spacing: 3px;
+}
+#pink{
+    width: 200px;
+    height: 100px;
+    background-color: pink;
+    color: #fff;
+    font-weight: 900;
+    border-radius: 20px;
+    border: 3px solid #fff;
+    letter-spacing: 2px;
+}
+#red{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    color: #fff;
+    font-weight: 900;
+    border-radius: 20px;
+    border: 3px solid #fff;
+    letter-spacing: 2px;
+}
+#green{
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    color: #fff;
+    font-weight: 900;  
+      border-radius: 20px;
+      border: 3px solid #fff;
+      letter-spacing: 2px;
+
+}
+#yellow{
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    color: #fff;
+    font-weight: 900;
+    border-radius: 20px;
+    border: 3px solid #fff;
+    letter-spacing: 2px;
+}
+#blue{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    color: #fff;
+    font-weight: 900;
+    border-radius: 20px;
+    border: 3px solid #fff;
+    letter-spacing: 2px;
+}
+#purple{
+    width: 200px;
+    height: 100px;
+    background-color: purple;
+    color: #fff;
+    font-weight: 900;
+    border-radius: 20px;
+    border: 3px solid #fff;
+    letter-spacing: 2px;
+}
